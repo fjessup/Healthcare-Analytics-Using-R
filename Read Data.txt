@@ -1,0 +1,4 @@
+> # load foreign package
+> library(foreign)
+> # read in data to R
+> BRFSS2015_Source_Data <- read.xport ("C:/Users/Owner/Documents/R/Data/LLCP2015.XPT")
